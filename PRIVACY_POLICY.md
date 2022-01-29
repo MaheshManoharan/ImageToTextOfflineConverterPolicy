@@ -1,4 +1,5 @@
-Image To Text Offline Converter: Privacy policy
+## Image To Text Offline Converter: Privacy policy ##
+
 Welcome to the Image To Text Offline Converter app for Android!
 
 This app helps to convert or extract text from images, this is available on Google Play developed by Mahesh Manoharan.
